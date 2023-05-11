@@ -82,9 +82,8 @@ body {
     top: 100px;
     border: 1px solid #c33b80;
     background-image: url(midias/sofia.jpeg);
-    background-size: 310px;
-    background-repeat: no-repeat;
-    padding: 200px 150px;
+    background-size: cover;
+    padding: 200px 170px;
 }
 
 #nome-foto h1 {
